@@ -1,0 +1,12 @@
+E:\VBNET\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+E:\VBNET\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe
+E:\VBNET\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.pdb
+E:\VBNET\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.xml
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.vbprojResolveAssemblyReference.cache
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Form1.resources
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Resources.resources
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.vbproj.GenerateResource.Cache
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.vbproj.CoreCompileInputs.cache
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.exe
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.xml
+E:\VBNET\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
